@@ -7,7 +7,7 @@ A static clone of the Amazon homepage built using only HTML and CSS. This projec
 
 📸 Screenshots
 💻 Desktop
-[Home page](imgs/181252.png);
+![Home page](imgs/181252.png);
 
 🔍 Features
 Amazon-style header with search bar and navigation
